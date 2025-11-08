@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Addtional extensions that should be ignored
+*test*.*/
+.ipynb_checkpoints/
+Data/
+
 # C extensions
 *.so
 
