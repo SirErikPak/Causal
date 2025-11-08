@@ -2,17 +2,13 @@
 
 ## Install required packages
 
-python 3 (>=3.7)
-numpy
-networkx
-pandas
-scipy
-scikit-learn
-statsmodels
-pydot
-pywhy
+python 3.12.12
+dowhy
+econml
+causalgraphicalmodels
 ipywidgets
 (For visualization)
 matplotlib
 seaborn
+pydot
 graphviz
